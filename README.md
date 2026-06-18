@@ -72,7 +72,7 @@ Open to **Software Engineering Internships** and **Software Developer Roles**
 
 📧 **[rudraparmar1082@gmail.com](mailto:rudraparmar1082@gmail.com)**
 
-💻 **GitHub:** https://github.com/rudraparmar442
+💻 **GitHub:** https://github.com/rudraparmar-321
 
 <!--
 **rudraparmar-321/rudraparmar-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
