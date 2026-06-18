@@ -70,7 +70,7 @@ I build scalable software solutions focused on backend development, APIs, databa
 
 Open to **Software Engineering Internships** and **Software Developer Roles**
 
-📧 **[rudraparmar203@gmail.com](mailto:rudraparmar203@gmail.com)**
+📧 **[rudraparmar1082@gmail.com](mailto:rudraparmar1082@gmail.com)**
 
 💻 **GitHub:** https://github.com/rudraparmar442
 
